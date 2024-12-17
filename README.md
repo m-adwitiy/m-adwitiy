@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adwitiy.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning data structures and algorithms and building projects.
-- 📫 You can reach me at linkedin.com/in/adwitiy/  
+- 📫 You can reach me at www.linkedin.com/in/adwitiy/  
 
 <!---
 m-adwitiy/m-adwitiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
